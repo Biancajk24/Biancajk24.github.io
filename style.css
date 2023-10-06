@@ -680,7 +680,7 @@ footer {
   }
   .item {
     display: block;
-    max-width: 350px;
+    max-width: 340px;
     align-items: center;
     justify-content: center;
     padding: 0;
